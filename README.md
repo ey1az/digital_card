@@ -29,3 +29,9 @@ The Digital Card is designed as a simple, interactive web page displaying inform
 ## The End
 
 Thank you for checking out my digital card! 😄
+
+## ⚠️ Disclaimer ⚠️
+
+This project is **not** open for personal use, modification, and redistribution.
+
+Thank you for respecting the effort that went into creating this project!
